@@ -1,0 +1,11 @@
+Soy Dario Mendoza y programador web, me enfoco a obtener datos de SQL y graficarlas en los tableros de control.En la parte de código uso lenguajes como HTML,CSS,JavaScript
+
+¡Hola! Soy Dario Mendoza, un apasionado programador web especializado en la obtención y visualización de datos a través de SQL. 
+Mi objetivo principal es convertir datos complejos en valiosos insights mediante la creación de tableros de control intuitivos y atractivos.
+Mi experiencia abarca un amplio espectro de lenguajes y tecnologías, pero mi enfoque principal se centra en HTML, CSS y JavaScript. 
+Con habilidades sólidas en estos lenguajes, soy capaz de desarrollar interfaces web modernas y funcionales que brindan una experiencia de usuario excepcional.
+Además de mi dominio en la obtención de datos de SQL, también estoy familiarizado con otras bases de datos relacionales y tengo experiencia en su gestión y optimización. 
+Mi objetivo es garantizar que los datos sean accesibles, precisos y visualmente impactantes para facilitar la toma de decisiones empresariales fundamentadas.
+Mi pasión por la programación web se combina con un fuerte enfoque en la resolución de problemas y la colaboración en equipo.
+Siempre estoy buscando nuevas formas de mejorar y aprender, manteniéndome al tanto de las últimas tendencias y avances en el campo de la programación.
+Estoy emocionado por la oportunidad de aplicar mis habilidades y conocimientos en un entorno desafiante, donde pueda contribuir al éxito y crecimiento de un equipo dinámico.
